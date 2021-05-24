@@ -1,9 +1,20 @@
+body {
+    font: 16px Arial, sans-serif;
+}
+
 .navbar {
     margin-left: 20px;
 }
 .mymargin {
-    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
-.quem-somos {
+.quemsomos {
     background-color: #7952B3;
+}
+.parceiros {
+    background-color: #b69ddd;
+}
+.servicos {
+    background-color: #b69ddd;
 }
